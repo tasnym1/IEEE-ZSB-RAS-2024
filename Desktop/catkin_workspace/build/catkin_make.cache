@@ -1,0 +1,2 @@
+first_proj
+-DCATKIN_DEVEL_PREFIX=/home/tasneem/Desktop/catkin_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/tasneem/Desktop/catkin_workspace/install -G Unix Makefiles

@@ -1,0 +1,44 @@
+[rosmaster.main][INFO] 2024-04-16 02:50:09,212: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2024-04-16 02:50:09,213: Starting ROS Master Node
+[xmlrpc][INFO] 2024-04-16 02:50:09,215: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2024-04-16 02:50:09,216: Started XML-RPC server [http://tasneem-virtual-machine:11311/]
+[xmlrpc][INFO] 2024-04-16 02:50:09,217: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2024-04-16 02:50:09,218: Master initialized: port[11311], uri[http://tasneem-virtual-machine:11311/]
+[rosmaster.master][INFO] 2024-04-16 02:50:09,260: +PUB [/rosout] /teleop_turtle http://tasneem-virtual-machine:37813/
+[rosmaster.master][INFO] 2024-04-16 02:50:09,265: +SERVICE [/teleop_turtle/get_loggers] /teleop_turtle http://tasneem-virtual-machine:37813/
+[rosmaster.master][INFO] 2024-04-16 02:50:09,267: +SERVICE [/teleop_turtle/set_logger_level] /teleop_turtle http://tasneem-virtual-machine:37813/
+[rosmaster.master][INFO] 2024-04-16 02:50:09,271: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2024-04-16 02:50:09,274: +PARAM [/roslaunch/uris/host_tasneem_virtual_machine__43937] by /roslaunch
+[rosmaster.master][INFO] 2024-04-16 02:50:09,275: +PUB [/turtle1/cmd_vel] /teleop_turtle http://tasneem-virtual-machine:37813/
+[rosmaster.master][INFO] 2024-04-16 02:50:09,434: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2024-04-16 02:50:09,435: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2024-04-16 02:50:09,467: +SERVICE [/rosout/get_loggers] /rosout http://tasneem-virtual-machine:36055/
+[rosmaster.master][INFO] 2024-04-16 02:50:09,469: +SERVICE [/rosout/set_logger_level] /rosout http://tasneem-virtual-machine:36055/
+[rosmaster.master][INFO] 2024-04-16 02:50:09,472: +PUB [/rosout_agg] /rosout http://tasneem-virtual-machine:36055/
+[rosmaster.master][INFO] 2024-04-16 02:50:09,478: +SUB [/rosout] /rosout http://tasneem-virtual-machine:36055/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,177: +PUB [/rosout] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,179: +SERVICE [/turtlesim/get_loggers] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,180: +SERVICE [/turtlesim/set_logger_level] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,185: +PARAM [/turtlesim/background_r] by /turtlesim
+[rosmaster.master][INFO] 2024-04-16 02:50:56,187: +PARAM [/turtlesim/background_g] by /turtlesim
+[rosmaster.master][INFO] 2024-04-16 02:50:56,190: +PARAM [/turtlesim/background_b] by /turtlesim
+[rosmaster.master][INFO] 2024-04-16 02:50:56,208: publisherUpdate[/rosout] -> http://tasneem-virtual-machine:36055/ ['http://tasneem-virtual-machine:37813/', 'http://tasneem-virtual-machine:38681/']
+[rosmaster.master][INFO] 2024-04-16 02:50:56,225: publisherUpdate[/rosout] -> http://tasneem-virtual-machine:36055/ ['http://tasneem-virtual-machine:37813/', 'http://tasneem-virtual-machine:38681/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2024-04-16 02:50:56,288: +SERVICE [/clear] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,290: +SERVICE [/reset] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,294: +SERVICE [/spawn] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,297: +SERVICE [/kill] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,301: +CACHEDPARAM [/rosout_disable_topics_generation] by /turtlesim
+[rosmaster.master][INFO] 2024-04-16 02:50:56,317: +SUB [/turtle1/cmd_vel] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,320: +PUB [/turtle1/pose] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,323: +PUB [/turtle1/color_sensor] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,325: +SERVICE [/turtle1/set_pen] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,329: +SERVICE [/turtle1/teleport_relative] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 02:50:56,332: +SERVICE [/turtle1/teleport_absolute] /turtlesim http://tasneem-virtual-machine:38681/
+[rosmaster.master][INFO] 2024-04-16 03:15:53,270: -PUB [/rosout_agg] /rosout http://tasneem-virtual-machine:36055/
+[rosmaster.master][INFO] 2024-04-16 03:15:53,272: -SUB [/rosout] /rosout http://tasneem-virtual-machine:36055/
+[rosmaster.master][INFO] 2024-04-16 03:15:53,273: -SERVICE [/rosout/get_loggers] /rosout rosrpc://tasneem-virtual-machine:43805
+[rosmaster.master][INFO] 2024-04-16 03:15:53,274: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://tasneem-virtual-machine:43805
+[rosmaster.main][INFO] 2024-04-16 03:15:53,294: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2024-04-16 03:15:53,295: stopping master...
+[rospy.core][INFO] 2024-04-16 03:15:53,295: signal_shutdown [atexit]

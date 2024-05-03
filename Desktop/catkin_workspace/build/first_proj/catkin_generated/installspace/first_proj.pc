@@ -1,0 +1,8 @@
+prefix=/home/tasneem/Desktop/catkin_workspace/install
+
+Name: first_proj
+Description: Description of first_proj
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

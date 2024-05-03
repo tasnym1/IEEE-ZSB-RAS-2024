@@ -1,0 +1,21 @@
+[rosmaster.main][INFO] 2024-04-16 00:20:26,245: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2024-04-16 00:20:26,246: Starting ROS Master Node
+[xmlrpc][INFO] 2024-04-16 00:20:26,249: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2024-04-16 00:20:26,251: Started XML-RPC server [http://tasneem-virtual-machine:11311/]
+[xmlrpc][INFO] 2024-04-16 00:20:26,252: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2024-04-16 00:20:26,253: Master initialized: port[11311], uri[http://tasneem-virtual-machine:11311/]
+[rosmaster.master][INFO] 2024-04-16 00:20:26,363: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2024-04-16 00:20:26,368: +PARAM [/roslaunch/uris/host_tasneem_virtual_machine__41033] by /roslaunch
+[rosmaster.master][INFO] 2024-04-16 00:20:26,611: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2024-04-16 00:20:26,612: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2024-04-16 00:20:26,699: +SERVICE [/rosout/get_loggers] /rosout http://tasneem-virtual-machine:46863/
+[rosmaster.master][INFO] 2024-04-16 00:20:26,700: +SERVICE [/rosout/set_logger_level] /rosout http://tasneem-virtual-machine:46863/
+[rosmaster.master][INFO] 2024-04-16 00:20:26,703: +PUB [/rosout_agg] /rosout http://tasneem-virtual-machine:46863/
+[rosmaster.master][INFO] 2024-04-16 00:20:26,709: +SUB [/rosout] /rosout http://tasneem-virtual-machine:46863/
+[rosmaster.master][INFO] 2024-04-16 02:34:03,934: -PUB [/rosout_agg] /rosout http://tasneem-virtual-machine:46863/
+[rosmaster.master][INFO] 2024-04-16 02:34:03,937: -SUB [/rosout] /rosout http://tasneem-virtual-machine:46863/
+[rosmaster.master][INFO] 2024-04-16 02:34:03,938: -SERVICE [/rosout/get_loggers] /rosout rosrpc://tasneem-virtual-machine:42383
+[rosmaster.master][INFO] 2024-04-16 02:34:03,940: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://tasneem-virtual-machine:42383
+[rosmaster.main][INFO] 2024-04-16 02:34:04,053: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2024-04-16 02:34:04,053: stopping master...
+[rospy.core][INFO] 2024-04-16 02:34:04,054: signal_shutdown [atexit]

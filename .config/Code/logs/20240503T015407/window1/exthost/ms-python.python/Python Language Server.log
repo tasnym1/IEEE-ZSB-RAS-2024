@@ -1,0 +1,29 @@
+2024-05-03 02:09:26.524 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.6.0)
+2024-05-03 02:09:28.321 [info] [Info  - 2:09:28 AM] (7660) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-05-03 02:09:28.323 [info] [Info  - 2:09:28 AM] (7660) Server root directory: file:///home/tasneem/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-05-03 02:09:28.323 [info] [Info  - 2:09:28 AM] (7660) Starting service instance "tasneem"
+2024-05-03 02:09:28.458 [info] [Info  - 2:09:28 AM] (7660) Setting pythonPath for service "tasneem": "/bin/python3"
+2024-05-03 02:09:28.459 [info] [Info  - 2:09:28 AM] (7660) Setting environmentName for service "tasneem": "3.8.10 (global)"
+2024-05-03 02:09:28.553 [info] [Info  - 2:09:28 AM] (7660) Assuming Python version 3.8.10.final.0
+2024-05-03 02:09:28.925 [info] [Info  - 2:09:28 AM] (7660) Found 7 source files
+2024-05-03 02:09:30.239 [info] [Info  - 2:09:30 AM] (7660) Background analysis(1) root directory: file:///home/tasneem/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-05-03 02:09:30.240 [info] [Info  - 2:09:30 AM] (7660) Background analysis(1) started
+2024-05-03 02:16:37.905 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.6.0)
+2024-05-03 02:16:39.717 [info] [Info  - 2:16:39 AM] (7827) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-05-03 02:16:39.718 [info] [Info  - 2:16:39 AM] (7827) Server root directory: file:///home/tasneem/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-05-03 02:16:39.718 [info] [Info  - 2:16:39 AM] (7827) Starting service instance "src"
+2024-05-03 02:16:39.847 [info] [Info  - 2:16:39 AM] (7827) Setting pythonPath for service "src": "/bin/python3"
+2024-05-03 02:16:39.848 [info] [Info  - 2:16:39 AM] (7827) Setting environmentName for service "src": "3.8.10 (global)"
+2024-05-03 02:16:39.966 [info] [Info  - 2:16:39 AM] (7827) Assuming Python version 3.8.10.final.0
+2024-05-03 02:16:40.214 [info] [Info  - 2:16:40 AM] (7827) Found 1 source file
+2024-05-03 02:16:41.984 [info] [Info  - 2:16:41 AM] (7827) Background analysis(1) root directory: file:///home/tasneem/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-05-03 02:16:42.002 [info] [Info  - 2:16:42 AM] (7827) Background analysis(1) started
+2024-05-03 02:16:42.836 [info] [Info  - 2:16:42 AM] (7827) Indexer background runner(2) root directory: file:///home/tasneem/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-05-03 02:16:42.837 [info] [Info  - 2:16:42 AM] (7827) Indexing(2) started
+2024-05-03 02:16:45.780 [info] [Info  - 2:16:45 AM] (7827) [IDX(2)] Long operation: scan packages file:///home/tasneem/Desktop/catkin_workspace/src (2897ms)
+2024-05-03 02:16:45.780 [info] [Info  - 2:16:45 AM] (7827) scanned(2) 341 files over 1 exec env
+2024-05-03 02:16:54.590 [info] [Info  - 2:16:54 AM] (7827) [IDX(2)] Long operation: index execution environment file:///home/tasneem/Desktop/catkin_workspace/src (5374ms)
+2024-05-03 02:16:54.651 [info] [Info  - 2:16:54 AM] (7827) [IDX(2)] Long operation: index packages file:///home/tasneem/Desktop/catkin_workspace/src (5492ms)
+2024-05-03 02:16:54.651 [info] [Info  - 2:16:54 AM] (7827) indexed(2) 123 files over 1 exec env
+2024-05-03 02:16:55.035 [info] [Info  - 2:16:55 AM] (7827) Indexing finished(2).
+2024-05-03 04:07:14.601 [info] [Info  - 4:07:14 AM] (7827) Found 2 source files

@@ -1,0 +1,4 @@
+{"timestamp":8784478,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","experiment":"long-term-holdback-2024-h1-velocity-desktop"}}
+{"timestamp":8784486,"category":"nimbus_events","name":"unenrollment","extra":{"reason":"recipe-not-seen","experiment":"firefox-desktop-long-term-holdback-validation-release","branch":"delivery"}}
+{"timestamp":8784488,"category":"nimbus_events","name":"unenrollment","extra":{"branch":"treatment-d","reason":"recipe-not-seen","experiment":"recommend-add-ons-staff-pick-relaunch"}}
+{"timestamp":8784496,"category":"nimbus_events","name":"unenrollment","extra":{"reason":"recipe-not-seen","branch":"control","experiment":"spocs-endpoint-rollout-release"}}

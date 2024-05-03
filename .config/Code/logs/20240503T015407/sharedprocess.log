@@ -1,0 +1,66 @@
+2024-05-03 01:54:29.157 [info] Started initializing default profile extensions in extensions installation folder. file:///home/tasneem/.vscode/extensions
+2024-05-03 01:54:30.429 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/tasneem/.vscode/extensions Unable to create file 'vscode-userdata:/home/tasneem/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-05-03 01:54:30.430 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/tasneem/.vscode/extensions
+2024-05-03 01:54:30.884 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-03 02:02:11.116 [info] Getting Manifest... ms-python.python
+2024-05-03 02:02:11.164 [info] Installing extension: ms-python.python
+2024-05-03 02:02:12.565 [info] Getting Manifest... ms-python.vscode-pylance
+2024-05-03 02:02:13.207 [info] Getting Manifest... ms-python.debugpy
+2024-05-03 02:02:14.025 [info] Installing extension: ms-python.vscode-pylance
+2024-05-03 02:02:14.027 [info] Installing extension: ms-python.debugpy
+2024-05-03 02:03:10.280 [info] Getting Manifest... formulahendry.code-runner
+2024-05-03 02:03:10.317 [info] Installing extension: formulahendry.code-runner
+2024-05-03 02:04:41.753 [info] Extension signature verification result for formulahendry.code-runner: Success. Duration: 20559ms.
+2024-05-03 02:04:43.299 [info] Extracted extension to file:///home/tasneem/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2024-05-03 02:04:43.314 [info] Renamed to /home/tasneem/.vscode/extensions/formulahendry.code-runner-0.12.2
+2024-05-03 02:04:43.323 [info] Extracting extension completed. formulahendry.code-runner
+2024-05-03 02:04:43.390 [info] Extension installed successfully: formulahendry.code-runner
+2024-05-03 02:04:43.487 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-03 02:04:58.262 [info] Extension signature verification result for ms-python.debugpy: Success. Duration: 2899ms.
+2024-05-03 02:05:02.570 [info] Extracted extension to file:///home/tasneem/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64: ms-python.debugpy
+2024-05-03 02:05:02.593 [info] Renamed to /home/tasneem/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64
+2024-05-03 02:05:02.608 [info] Extracting extension completed. ms-python.debugpy
+2024-05-03 02:05:02.734 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-03 02:06:38.361 [info] Extension signature verification result for ms-python.python: Success. Duration: 2469ms.
+2024-05-03 02:06:57.775 [info] Extracted extension to file:///home/tasneem/.vscode/extensions/ms-python.python-2024.6.0: ms-python.python
+2024-05-03 02:06:57.790 [info] Renamed to /home/tasneem/.vscode/extensions/ms-python.python-2024.6.0
+2024-05-03 02:06:57.804 [info] Extracting extension completed. ms-python.python
+2024-05-03 02:06:57.935 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-03 02:08:28.560 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Duration: 2510ms.
+2024-05-03 02:09:18.413 [info] Extracted extension to file:///home/tasneem/.vscode/extensions/ms-python.vscode-pylance-2024.4.1: ms-python.vscode-pylance
+2024-05-03 02:09:18.486 [info] Renamed to /home/tasneem/.vscode/extensions/ms-python.vscode-pylance-2024.4.1
+2024-05-03 02:09:18.522 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-05-03 02:09:18.565 [info] Extension installed successfully: ms-python.debugpy
+2024-05-03 02:09:18.566 [info] Extension installed successfully: ms-python.python
+2024-05-03 02:09:18.567 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-05-03 02:09:18.629 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/tasneem/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

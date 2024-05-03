@@ -1,0 +1,10 @@
+2024-05-03 01:54:08.537 [info] update#setState idle
+2024-05-03 01:54:37.905 [info] update#setState checking for updates
+2024-05-03 01:54:37.919 [info] update#setState idle
+2024-05-03 02:15:31.594 [info] Extension host with pid 7320 exited with code: 0, signal: unknown.
+2024-05-03 02:54:37.923 [info] update#setState checking for updates
+2024-05-03 02:54:37.931 [info] update#setState idle
+2024-05-03 03:23:48.386 [warning] No ptyHost heartbeat after 6 seconds
+2024-05-03 03:47:52.199 [warning] No ptyHost heartbeat after 6 seconds
+2024-05-03 03:55:41.270 [info] update#setState checking for updates
+2024-05-03 03:55:41.271 [info] update#setState idle

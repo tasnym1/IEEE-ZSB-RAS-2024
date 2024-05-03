@@ -1,0 +1,35 @@
+2024-05-03 02:09:23.031 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-03 02:09:23.031 [info] Experiment 'pythonREPLSmartSend' is active
+2024-05-03 02:09:23.031 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-03 02:09:23.031 [info] Experiment 'pythonTestAdapter' is active
+2024-05-03 02:09:23.186 [info] Default formatter is set to null for workspace /home/tasneem
+2024-05-03 02:09:23.316 [info] > conda info --json
+2024-05-03 02:09:23.349 [info] > hatch env show --json
+2024-05-03 02:09:23.349 [info] cwd: .
+2024-05-03 02:09:23.402 [info] > pyenv which python
+2024-05-03 02:09:23.402 [info] cwd: .
+2024-05-03 02:09:23.755 [info] Found: /bin/python3 --> /bin/python3.8
+2024-05-03 02:09:23.760 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-05-03 02:09:23.865 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2024-05-03 02:09:23.867 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-05-03 02:09:23.993 [info] > /bin/python3 -I ./.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-03 02:09:24.036 [info] > /usr/bin/python3 -I ./.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-03 02:09:24.185 [info] Python interpreter path: /bin/python3
+2024-05-03 02:09:25.675 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-05-03 02:09:25.689 [info] Shell integration status changed, can confirm it's working.
+2024-05-03 02:09:28.382 [info] Starting Pylance language server.
+2024-05-03 02:16:36.099 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-03 02:16:36.099 [info] Experiment 'pythonREPLSmartSend' is active
+2024-05-03 02:16:36.099 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-03 02:16:36.099 [info] Experiment 'pythonTestAdapter' is active
+2024-05-03 02:16:36.099 [info] Default formatter is set to null for workspace /home/tasneem/Desktop/catkin_workspace/src
+2024-05-03 02:16:36.099 [info] > hatch env show --json
+2024-05-03 02:16:36.099 [info] cwd: .
+2024-05-03 02:16:37.198 [info] > pyenv which python
+2024-05-03 02:16:37.198 [info] cwd: .
+2024-05-03 02:16:37.357 [info] Python interpreter path: /bin/python3
+2024-05-03 02:16:39.771 [info] Starting Pylance language server.
+2024-05-03 02:52:38.562 [info] Discover tests for workspace name: src - uri: /home/tasneem/Desktop/catkin_workspace/src/first_proj/scripts/talker.py
+2024-05-03 03:50:01.757 [info] Discover tests for workspace name: src - uri: /home/tasneem/Desktop/catkin_workspace/src/first_proj/scripts/talker.py
+2024-05-03 03:55:58.915 [info] Discover tests for workspace name: src - uri: /home/tasneem/Desktop/catkin_workspace/src/first_proj/scripts/talker.py
+2024-05-03 04:10:12.718 [info] Discover tests for workspace name: src - uri: /home/tasneem/Desktop/catkin_workspace/src/first_proj/scripts/listener.py
