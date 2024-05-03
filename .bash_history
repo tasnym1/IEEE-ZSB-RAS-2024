@@ -99,3 +99,60 @@ git commit -m "task2 is finished "
 git push origin master
 git remote add origin "https://github.com/tasnym1/IEEE_ZSB_RAS_2024.git "
 git push origin master
+cd ..
+sudo apt update
+cd desktop
+cd Desktop
+sudo apt update
+sudo apt_get update
+sudo apt-get update
+sudo snap install code -- classic
+sudo snap install code --classic
+clear
+sudo snap install --classic code
+sudo apt remove boardcom-sta-dkms bcmwl-kernel-source
+sudo apt install firmware-b43-installer
+clear
+cd ..
+sudo lshw -class network
+sudo apt update
+sudo snap install code --classic
+code .
+clear
+cd
+cd catkin workspace
+cd catkin workspace/
+cd Desktop
+cd catkin workspace
+cd catkin_workspace
+catkin_make
+rosrun
+rosrun first_proj 
+rosrun first_proj talker.py
+cd ..
+rosrun first_proj talker.py
+cd catkin_workspace
+source devel/setup.bash
+cd bashrc
+cd bash 
+gedit~/.bashrc
+getdit
+cd..
+cd ..
+getdit ~/.bashrc
+getit ~/.bashrc
+gedit ~/.bashrc
+cd catkin_workspace
+catkin_make
+rosrun first_proj talker.py
+apt-get install python3
+sudo apt-get install python3
+rosrun first_proj talker.py
+cd 
+git init
+git remote add origin "https://github.com/IEEE_ZSB_RAS_2024.git"
+git remote -v
+git add .
+git commit -m "task is finished "
+git push origin master
+roscore
